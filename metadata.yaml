@@ -1,0 +1,30 @@
+_repo: The-Gracchi-Marius-and-SullaEpochs-of-Ancient-History_10860
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beesly, A. H. (Augustus Henry)
+    aliases:
+    - Beesley, A. H. (Augustus Henry)
+    - Beesly, Augustus Henry
+    - Beesley, Augustus Henry
+    birthdate: 1839
+    deathdate: 1909
+    gutenberg_agent_id: '3725'
+    url: http://www.gutenberg.org/2009/agents/3725
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History -- Republic, 265-30 B.C.'
+- !lcc 'DG'
+- GITenberg
+title: 'The Gracchi Marius and Sulla
+
+  Epochs of Ancient History'
+url: http://www.gutenberg.org/ebooks/10860
